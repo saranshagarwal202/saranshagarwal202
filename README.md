@@ -54,15 +54,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=saranshagarwal202&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saranshagarwal202&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
----
-
 ## 🚀 Featured Projects
 
 ### 🤖 [Constrained LLM Unlearning](https://github.com/LAB-FLAIR/Constrained-Unlearning-for-LLM)
