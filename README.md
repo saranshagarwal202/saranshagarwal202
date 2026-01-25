@@ -1,7 +1,7 @@
 # Hey, I'm Saransh 👋
 
 **New Grad SWE** | Backend & ML Systems | MS Data Science @ Texas A&M  
-📍 Palo Alto, CA • Actively looking for opportunities
+📍 United States • Actively looking for opportunities
 
 <img src="./aws-certified-solutions-architect-professional.png" height="120" alt="AWS Solutions Architect Professional">
 
