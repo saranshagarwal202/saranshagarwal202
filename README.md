@@ -10,7 +10,7 @@
 
 ### 🔨 Currently Building [Jan 2026]
 
-- **[Email-Newsletter](https://github.com/saranshagarwal202/email-newsletter)** — High-throughput, low-latency email newsletter service in Rust. Learning systems programming the hard way.
+- **[NVIDIA/kvpress](https://github.com/saranshagarwal202/kvpress)** — Building Cache merging techniques to open source.
 
 - ![LeetCode](https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=black&color=%23ffa116&label=LeetCode&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fsaranshagarwal2020&logo=leetcode&logoColor=yellow)
 
