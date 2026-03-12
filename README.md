@@ -5,15 +5,6 @@
 
 <img src="./aws-certified-solutions-architect-professional.png" height="120" alt="AWS Solutions Architect Professional">
 
-
----
-
-### 🔨 Currently Building [Jan 2026]
-
-- **[NVIDIA/kvpress](https://github.com/saranshagarwal202/kvpress)** — Building Cache merging techniques to open source.
-
-- ![LeetCode](https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=black&color=%23ffa116&label=LeetCode&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fsaranshagarwal2020&logo=leetcode&logoColor=yellow)
-
 ---
 
 ### 💼 What I've Built
