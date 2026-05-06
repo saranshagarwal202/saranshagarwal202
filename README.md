@@ -3,7 +3,7 @@
 **New Grad SWE** | Backend & ML Systems | MS Data Science @ Texas A&M  
 📍 United States • Actively looking for opportunities
 
-<img src="./aws-certified-solutions-architect-professional.png" height="120" alt="AWS Solutions Architect Professional">
+<!-- <img src="./aws-certified-solutions-architect-professional.png" height="120" alt="AWS Solutions Architect Professional"> -->
 
 ---
 
