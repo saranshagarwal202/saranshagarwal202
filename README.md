@@ -17,8 +17,8 @@
 
 ### 📄 Publications
 
-- **[SemEval-2025]** *Constrained Unlearning for LLMs* — 🥈 2nd Place, Task 4  
-- **[EACL 2026]** *Adaptive Helpfulness-Harmlessness Alignment with Preference Vectors*
+- **[![SemEval-2025](https://aclanthology.org/2025.semeval-1.308/)]** *Constrained Unlearning for LLMs* — 🥈 2nd Place, Task 4  
+- **[![EACL 2026](https://arxiv.org/abs/2504.20106)]** *Adaptive Helpfulness-Harmlessness Alignment with Preference Vectors*
 
 ---
 
@@ -37,7 +37,7 @@
 
 ### 📫 Let's Talk
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/saransh-agarwal8899)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saransh-agrawal8899/)
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:saranshagarwal2020@gmail.com)
 [![Website](https://img.shields.io/badge/-Website-000?style=flat-square&logo=safari&logoColor=white)](https://saranshagarwal202.github.io)
 
