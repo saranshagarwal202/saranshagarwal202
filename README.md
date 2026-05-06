@@ -1,6 +1,9 @@
 # Hey, I'm Saransh 👋
 
-**New Grad SWE** | Backend & ML Systems | MS Data Science @ Texas A&M  
+**New Grad MLE** | Backend & ML Systems | MS Data Science @ Texas A&M  
+
+ML Engineer with production experience in LLM infrastructure, distributed training, and backend systems. Inference optimization via KV Cache Compression (open source @ NVIDIA/kvpress), and published researcher (@ ACL, EACL) - on LLM model alignment, inference and scaling efficiency, mechanistic interpretability.
+
 📍 United States • Actively looking for opportunities
 
 <!-- <img src="./aws-certified-solutions-architect-professional.png" height="120" alt="AWS Solutions Architect Professional"> -->
@@ -17,8 +20,8 @@
 
 ### 📄 Publications
 
-- **[![SemEval-2025](https://aclanthology.org/2025.semeval-1.308/)]** *Constrained Unlearning for LLMs* — 🥈 2nd Place, Task 4  
-- **[![EACL 2026](https://arxiv.org/abs/2504.20106)]** *Adaptive Helpfulness-Harmlessness Alignment with Preference Vectors*
+- **[SemEval-2025](https://aclanthology.org/2025.semeval-1.308/)** *Constrained Unlearning for LLMs* — 🥈 2nd Place, Task 4  
+- **[EACL 2026](https://arxiv.org/abs/2504.20106)** *Adaptive Helpfulness-Harmlessness Alignment with Preference Vectors*
 
 ---
 
